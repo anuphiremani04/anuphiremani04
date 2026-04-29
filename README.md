@@ -44,7 +44,7 @@
 ```yaml
 name       : Anup I Hiremani
 role       : Full Stack Developer & Product Builder
-location   : Mysuru, Karnataka, India
+location   : Hubli, Karnataka, India
 focus      : Scalable systems · Clean architecture · Real user impact
 currently  : Distributed systems & Blockchain-based platforms
 portfolio  : anuphiremani.in
