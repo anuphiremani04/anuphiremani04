@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=anuphiremani04.anuphiremani04&left_color=0D1117&right_color=58A6FF&left_text=Profile+Visitors" alt="visitor badge">
+</p>
+
+<p align="center">
   <a href="https://github.com/anuphiremani04?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View-0D1117?style=for-the-badge" alt="repositories" style="border-radius: 12px;"></a>
   <a href="https://www.linkedin.com/in/anuphiremani"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="border-radius: 12px;"></a>
   <a href="mailto:anuphiremani123@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="border-radius: 12px;"></a>
