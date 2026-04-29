@@ -4,16 +4,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a2a4a,100:58A6FF&height=120&section=header&animation=fadeIn" />
 
 <!-- Name & Title -->
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=52&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=70&lines=Anup+I+Hiremani" alt="Name" />
-</h1>
+<h1 style="font-size:3rem; color:#58A6FF;">Anup I Hiremani</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=A0C4FF&center=true&vCenter=true&width=900&lines=🚀+Full+Stack+Developer;🛠️+Product+Builder;💡+Problem+Solver;⚡+Always+Learning%2C+Always+Shipping" alt="typing roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=A0C4FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Product+Builder;Problem+Solver;Always+Learning%2C+Always+Shipping" alt="typing roles" />
 
 <br/>
 
 <!-- Visitor Counter -->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=anuphiremani04.anuphiremani04&left_color=0D1117&right_color=58A6FF&left_text=👁️+Profile+Visitors" alt="visitor badge" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=anuphiremani04.anuphiremani04&left_color=0D1117&right_color=58A6FF&left_text=Profile+Visitors" alt="visitor badge" />
 
 <br/><br/>
 
